@@ -66,6 +66,7 @@ function App() {
         placeholder="Note description"
         value={formData.description}
       />
+      
       <input
         type="file"
         onChange={onChange}
